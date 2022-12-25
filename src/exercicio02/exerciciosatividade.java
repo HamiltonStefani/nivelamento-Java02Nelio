@@ -26,7 +26,3 @@ public class exerciciosatividade {
 		
 		
 		sc.close();
-		
-	}
-
-}
